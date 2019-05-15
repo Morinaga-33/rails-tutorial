@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6951d7-1b4d-4796-83f0-fbaef2c4498e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" afterDir="false" />
-    </list>
+    <list default="true" id="7e6951d7-1b4d-4796-83f0-fbaef2c4498e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -124,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1879" />
-    <option name="y" value="136" />
+    <option name="x" value="1878" />
+    <option name="y" value="116" />
     <option name="width" value="1145" />
     <option name="height" value="954" />
   </component>
@@ -315,16 +311,15 @@
       <workItem from="1557717472160" duration="1542000" />
       <workItem from="1557792184654" duration="3619000" />
       <workItem from="1557879643153" duration="1217000" />
-      <workItem from="1557881305513" duration="114000" />
+      <workItem from="1557881305513" duration="306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7494000" />
+    <option name="totallyTimeSpent" value="7686000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1879" y="136" width="1145" height="954" extended-state="0" />
-    <editor active="true" />
+    <frame x="1878" y="116" width="1145" height="954" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19038984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
