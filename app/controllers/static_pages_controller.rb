@@ -3,6 +3,7 @@ class StaticPagesController < ApplicationController
   end
 
   def help
+    raise
   end
 
   def about
